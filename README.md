@@ -1,3 +1,4 @@
 # SpotifyClone2
 this is my 2nd clone, not responsive
-hello goiz
+well i'll try to make it responsive in future though
+or i'll just keep it jus like this
